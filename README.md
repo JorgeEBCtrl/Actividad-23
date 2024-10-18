@@ -1,2 +1,2 @@
-# Actividad-23
-Practica Git Y Github
+# Actividades
+Practica en los temas vistos del bootcamp Testing para videojuegos y aplicaciones 
